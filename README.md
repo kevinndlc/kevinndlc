@@ -15,14 +15,14 @@ About me:
 
 ### Contact me:
 
-<a href="https://kevinndlc.com"><img src="./img/globe.svg" alt="My website" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kevin-ndlc"><img src="./img/linkedin.svg" alt="My Linkedin" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://kevinndlc.com" target="_blank"><img src="./img/globe.svg" alt="My website" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kevin-ndlc" target="_blank"><img src="./img/linkedin.svg" alt="My Linkedin" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="mailto:kevin@nedellec.eu"><img src="./img/mail.svg" alt="My email" width="32" height="32" /></a>
 
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px" />
+<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px" />
 <img align="left" alt="HTML5" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px" />
 <img align="left" alt="CSS3" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px" />
 <img align="left" alt="Sass" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px" />

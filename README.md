@@ -15,27 +15,27 @@ About me:
 
 ### Contact me:
 
-<a href="https://kevinndlc.com" target="_blank"><img src="./img/globe.svg" alt="My website" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kevin-ndlc" target="_blank"><img src="./img/linkedin.svg" alt="My Linkedin" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://kevinndlc.com"><img src="./img/globe.svg" alt="My website" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kevin-ndlc"><img src="./img/linkedin.svg" alt="My Linkedin" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="mailto:kevin@nedellec.eu"><img src="./img/mail.svg" alt="My email" width="32" height="32" /></a>
 
 
 ### Languages and Tools:
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px" />
-<img align="left" alt="HTML5" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px" />
-<img align="left" alt="CSS3" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px" />
-<img align="left" alt="Sass" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px" />
-<img align="left" alt="TailwindCSS" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px" />
-<img align="left" alt="JavaScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px" />
-<img align="left" alt="TypeScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px" />
-<img align="left" alt="Vue.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px" />
-<img align="left" alt="Nuxt.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px" />
-<img align="left" alt="Firebase" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px" />
-<img align="left" alt="GraphQL" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px" />
-<img align="left" alt="Python" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px" />
-<img align="left" alt="Git" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px" />
-<img align="left" alt="Jira" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px" />
+<img align="left" title="HTML5" alt="HTML5" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px" />
+<img align="left" title="CSS3" alt="CSS3" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px" />
+<img align="left" title="Sass" alt="Sass" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px" />
+<img align="left" title="TailwindCSS" alt="TailwindCSS" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px" />
+<img align="left" title="JavaScript" alt="JavaScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px" />
+<img align="left" title="TypeScript" alt="TypeScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px" />
+<img align="left" title="Vue.js" alt="Vue.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px" />
+<img align="left" title="Nuxt.js" alt="Nuxt.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px" />
+<img align="left" title="Firebase" alt="Firebase" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px" />
+<img align="left" title="GraphQL" alt="GraphQL" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px" />
+<img align="left" title="Python" alt="Python" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px" />
+<img align="left" title="Git" alt="Git" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px" />
+<img align="left" title="Jira" alt="Jira" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px" />
 
 <br /><br />
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kevin from France, living near Paris. <img src="./img/eiffel-tower.jpg" alt="Eiffel Tower" width="24" /><br />
+I'm Kevin from France, living near Paris.<br />
 I am currently working as a freelance Business Intelligence engineer ; 📊<br />
 But I'm becoming more and more interested in frontend development, especially with Vue.js...<br />
 And I am convinced that my skills in BI and data management can be a major strength in developing web applications ;<br />

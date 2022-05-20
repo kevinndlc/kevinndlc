@@ -9,8 +9,8 @@ That's why I decided to expand my services as a freelance web developer. 💻
 About me:
 
 - 🔭 I’m currently working on my new [Portfolio](https://kevinndlc.com)
-- 🌱 I’m also learning amazing things like Three.js and Web3 development
-- ⚡ Fun fact : I'm a guitarist, and an American Football player
+- 🌱 I am also learning amazing things like Three.js and Web3 development
+- ⚡ I'm a guitarist, and an American Football player
 - 📫 How to reach me: Linkedin or email ;
 
 ### Contact me:

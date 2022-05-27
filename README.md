@@ -11,7 +11,7 @@ About me:
 - 🔭 I’m currently working on my new [Portfolio](https://kevinndlc.com)
 - 🌱 I am also learning amazing things like Three.js and Web3 development
 - ⚡ I'm a guitarist, and an American Football player
-- 📫 How to reach me: Linkedin or email ;
+- 📫 How to reach me: Linkedin, Discord or email ;
 
 ### Contact me:
 

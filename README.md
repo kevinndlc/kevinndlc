@@ -31,14 +31,5 @@ About me:
 <img align="left" title="TypeScript" alt="TypeScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px" />
 <img align="left" title="Vue.js" alt="Vue.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px" />
 <img align="left" title="Nuxt.js" alt="Nuxt.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px" />
-<img align="left" title="Firebase" alt="Firebase" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px" />
-<img align="left" title="GraphQL" alt="GraphQL" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px" />
 <img align="left" title="Python" alt="Python" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px" />
 <img align="left" title="Git" alt="Git" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px" />
-<img align="left" title="Jira" alt="Jira" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px" />
-
-<br /><br />
-
-### ⭐ GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinndlc&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)

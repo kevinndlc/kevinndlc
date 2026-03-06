@@ -1,35 +1,34 @@
-### Hi there 👋
+# Hi there 👋 I'm Kévin
 
-I'm Kevin from France, living near Paris.<br />
-I am currently working as a freelance Business Intelligence engineer ; 📊<br />
-But I'm becoming more and more interested in frontend development, especially with Vue.js...<br />
-And I am convinced that my skills in BI and data management can be a major strength in developing web applications ;<br />
-That's why I decided to expand my services as a freelance web developer. 💻
+**Senior Analytics Engineer | Expert Microsoft Fabric & dbt** I help companies transform raw data into strategic assets using the Microsoft ecosystem. [cite_start]With 8+ years of experience in BI and Data[cite: 70, 78, 82], I bridge the gap between traditional Business Intelligence and Modern Data Engineering.
 
-About me:
+---
 
-- 🔭 I’m currently working on my new [Portfolio](https://kevinndlc.com)
-- 🌱 I am also learning amazing things like Three.js and Web3 development
-- ⚡ I'm a guitarist, and an American Football player
-- 📫 How to reach me: Linkedin, Discord or email ;
+### 🚀 What I do
+* [cite_start]**Microsoft Fabric Implementation:** Designing Medallion architectures on OneLake[cite: 75, 95].
+* [cite_start]**Industrialized Pipelines:** Building metadata-driven ELT frameworks using SQL and PySpark[cite: 75, 97].
+* [cite_start]**Analytics Engineering:** Mastering **dbt (Core & Cloud)** to ensure reliable, tested, and documented data models[cite: 99].
+* [cite_start]**High-Performance BI:** Creating Power BI dashboards with **DirectLake** connectivity for real-time decision making[cite: 75].
 
-### Contact me:
+### 🛠️ Tech Stack & Tools
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-<a href="https://kevinndlc.com"><img src="./img/globe.svg" alt="My website" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kevin-ndlc"><img src="./img/linkedin.svg" alt="My Linkedin" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="mailto:kevin@nedellec.eu"><img src="./img/mail.svg" alt="My email" width="32" height="32" /></a>
+### 💡 Why work with me?
+[cite_start]Coming from a software engineering background[cite: 89, 92], I treat data like code. [cite_start]I focus on automation, version control, and scalability to build robust data platforms that last[cite: 76, 98, 99].
 
+### ⚡ About me
+* [cite_start]**Experience:** 8+ years in the Data industry[cite: 70, 78, 82].
+* [cite_start]**Education:** Computer Science Engineer[cite: 89].
+* [cite_start]**Personal:** Guitar player 🎸 and Crossfit enthusiast 🏋️‍♂️[cite: 86, 87].
+* [cite_start]**Languages:** French (Native) [cite: 62][cite_start], English (TOEIC 970/990)[cite: 65].
 
-### Languages and Tools:
-
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px" />
-<img align="left" title="HTML5" alt="HTML5" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px" />
-<img align="left" title="CSS3" alt="CSS3" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px" />
-<img align="left" title="Sass" alt="Sass" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px" />
-<img align="left" title="TailwindCSS" alt="TailwindCSS" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px" />
-<img align="left" title="JavaScript" alt="JavaScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px" />
-<img align="left" title="TypeScript" alt="TypeScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right:10px" />
-<img align="left" title="Vue.js" alt="Vue.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px" />
-<img align="left" title="Nuxt.js" alt="Nuxt.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px" />
-<img align="left" title="Python" alt="Python" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px" />
-<img align="left" title="Git" alt="Git" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px" />
+### 📫 Reach me
+* [cite_start]**LinkedIn:** [linkedin.com/in/kevinndic](https://linkedin.com/in/kevinndic) [cite: 60]
+* [cite_start]**Email:** [kevin@nedellec.eu](mailto:kevin@nedellec.eu) [cite: 53]

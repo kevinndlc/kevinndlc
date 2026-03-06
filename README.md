@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kévin
 
-**Senior Analytics Engineer | Expert Microsoft Fabric & dbt**
+**Senior Analytics Engineer | Expert Microsoft Fabric & dbt** <br>
 I help companies transform raw data into strategic assets using the Microsoft ecosystem. With 8+ years of experience in BI and Data, I bridge the gap between traditional Business Intelligence and Modern Data Engineering.
 
 ---
@@ -31,6 +31,6 @@ I apply software engineering best practices to data workflows, focusing on autom
 * **Languages:** French (Native), English (TOEIC 970/990).
 
 ### 📫 Reach me
-<a href="https://kevinndlc.com"><img src="./img/globe.svg" alt="My website" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kevinndlc"><img src="./img/linkedin.svg" alt="My Linkedin" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="mailto:kevin@nedellec.eu"><img src="./img/mail.svg" alt="My email" width="32" height="32" /></a>
+<a href="https://kevinndlc.com" target="_blank"><img src="./img/globe.svg" alt="My website" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kevinndlc" target="_blank"><img src="./img/linkedin.svg" alt="My Linkedin" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="mailto:kevin@nedellec.eu" target="_blank"><img src="./img/mail.svg" alt="My email" width="32" height="32" /></a>

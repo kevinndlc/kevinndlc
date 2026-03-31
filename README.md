@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kévin
 
-**Senior Analytics Engineer | Expert Microsoft Fabric & dbt**<br>
+**Senior Analytics Engineer | Microsoft Fabric & dbt expert**<br>
 I help companies transform raw data into strategic assets using the Microsoft ecosystem. With 8+ years of experience in BI and Data, I bridge the gap between traditional Business Intelligence and Modern Data Engineering.
 
 ---

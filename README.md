@@ -32,6 +32,5 @@ I apply software engineering best practices to data workflows, focusing on autom
 * **Languages:** French (Native), English (TOEIC 970/990).
 
 ### 📫 Reach me
-<a href="https://kevinndlc.com"><img src="./img/globe.svg" alt="My website" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kevinndlc"><img src="./img/linkedin.svg" alt="My Linkedin" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="mailto:kevin@nedellec.eu"><img src="./img/mail.svg" alt="My email" width="32" height="32" /></a>

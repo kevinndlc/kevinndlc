@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Kévin
 
 **Data Architect | Microsoft Fabric, Power BI & dbt**<br>
+
 I help companies transform raw data into strategic assets using the Microsoft ecosystem. With 8+ years of experience in BI and Data, I bridge the gap between traditional Business Intelligence and Modern Data Engineering.
 
 ---
